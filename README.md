@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top"; margin:"4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top"; margin:"4px">
+ <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt="C#" height="40" style="vertical-align:top"; margin:"4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mogoDb" height="40" style="vertical-align:top"; margin:"4px"">
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fitim&show_icons=true&theme=tokyonight)
