@@ -33,8 +33,9 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mogoDb" height="40" style="vertical-align:top"; margin:"4px"">
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fitim&show_icons=true&theme=tokyonight)
+![Fitim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fitimh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitimh&theme=chartreuse-dark)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{fitimh}/count.svg)
 
