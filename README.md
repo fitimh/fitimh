@@ -5,7 +5,7 @@ My name is Fitim Hoti and I am a Software Engineer, currently living in Kosovo K
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Software Development Solution - SDS
-- 🌱 I’m currently learning Full Stack (MERN & VueJS)
+- 🌱 I’m currently learning Full Stack (VueJS & Laravel)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 ## 🧰 Languages and Tools:
-<p align="center">
+<p align="left">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
