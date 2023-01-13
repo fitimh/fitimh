@@ -6,7 +6,6 @@ My name is Fitim Hoti and I am a Web Developer, currently living in Kosovo Kline
 - 🔭 I’m currently working Software Developer on SPINP
 - 🌱 I’m currently learning Full Stack (VueJS & Laravel)
 
--->
 
 
 ## 🧰 Languages and Tools:
