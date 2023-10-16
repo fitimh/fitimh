@@ -3,8 +3,8 @@
 My name is Fitim Hoti and I am a Web Developer, currently living in Kosovo Kline, Prishtinë, I have some than years of experience working in projects as a developer. Generally I like everything that has to do with Web, Some of my activities are:
 
 
-- 🔭 I’m currently working Software Developer on SPINP
-- 🌱 I’m currently learning Full Stack (VueJS & Laravel)
+- 🔭 I’m currently working Software Developer on IT-WEB24 (REMOTE)
+- 🌱 I’m currently wokring with PHP & WORDPRESS DEVELOPER
 
 
 
