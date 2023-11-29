@@ -4,7 +4,7 @@ My name is Fitim Hoti and I am a Web Developer, currently living in Kosovo Kline
 
 
 - 🔭 I’m currently working Software Developer on IT-WEB24 (REMOTE)
-- 🌱 I’m currently wokring with PHP & WORDPRESS DEVELOPER
+- 🌱 I’m currently working with PHP & WORDPRESS DEVELOPER
 
 
 
